@@ -4,24 +4,21 @@ div {
   height: 65px;
   background-clip: content-box;
   margin: 25px;
+  border: 2px solid black;
 }
 
 div#a {
   padding: 16px;
-  border: 2px solid black;
 }
 
 div#b {
   padding: 50px 100px;
-  border: 2px solid black;
 }
 
 div#c {
   padding: 25px 25px 50px 25px;
-  border: 2px solid black;
 }
 
 div#d {
   padding: 20px 100px 40px 150px;
-  border: 2px solid black;
 }
